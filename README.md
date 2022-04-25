@@ -20,7 +20,6 @@ What you're not allowed to do:
 ```
 - Sell the client/launcher or source code for personal goods or for a currency
 - Modify the launcher, publicly distribute it and call it yours
-- 
 ```
 
 
