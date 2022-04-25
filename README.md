@@ -1,4 +1,4 @@
-# <img src="https://media.discordapp.net/attachments/916226674071339010/968073630560952320/RubyClient.png?width=413&height=473" alt="#"> Ruby Client
+# <img src="https://media.discordapp.net/attachments/916226674071339010/968073630560952320/RubyClient.png?width=413&height=473" width="30" height="30" alt="#"> Ruby Client
 Ruby is a Minecraft: Java Edition client created for mods, cosmetics, chats and more. It has a rich and comforting design with the newest posts about what's happening or what's new.
 
 ## Why it's so good
