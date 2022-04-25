@@ -1,9 +1,11 @@
-# <img src="https://media.discordapp.net/attachments/916226674071339010/968073630560952320/RubyClient.png?width=413&height=473" width="30" height="30" alt="#"> Ruby Client
+# <img src="https://media.discordapp.net/attachments/916226674071339010/968073630560952320/RubyClient.png?width=413&height=473" width="30" height="35" alt="#">  Ruby Client
 Ruby is a Minecraft: Java Edition client created for mods, cosmetics, chats and more. It has a rich and comforting design with the newest posts about what's happening or what's new.
 
 ## Why it's so good
 
 Ruby Client offers features that keep you going performance-wise and customization-wise, with mods, cosmetics, chats, rich presence, customizable settings and much, much more. It also automatically updates when a version is found even when it is hidden and can detect all your computer specifications to make sure everything runs well.
+
+<img src="https://media.discordapp.net/attachments/916226674071339010/968229233782566922/unknown.png?width=836&height=473" alt="#">
 
 ## Usage
 
